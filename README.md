@@ -1,4 +1,4 @@
-STEPS TO RUN IN VSCODE  TERMINAL
+STEPS TO RUN IN VSCODE TERMINAL
 
 1] git clone https://github.com/shubhamsurvegit/Cowya.git
 2] npm install
