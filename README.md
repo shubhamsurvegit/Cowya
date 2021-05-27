@@ -1,3 +1,20 @@
+STEPS TO RUN IN VSCODE  TERMINAL
+
+1] git clone https://github.com/shubhamsurvegit/Cowya.git
+2] npm install
+3] npm start 
+4]localhost:3000
+
+
+
+
+
+
+
+
+
+
+//no use
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
