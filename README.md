@@ -3,7 +3,7 @@ STEPS TO RUN IN VSCODE  TERMINAL
 1] git clone https://github.com/shubhamsurvegit/Cowya.git
 2] npm install
 3] npm start 
-4]localhost:3000
+4]Open in localhost:3000
 
 
 
